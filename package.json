@@ -1,0 +1,22 @@
+{
+  "name": "brainrot-rising-website",
+  "version": "1.0.0",
+  "description": "Página web de promoción para el bot Brainrot Rising",
+  "main": "index.js",
+  "scripts": {
+    "start": "live-server --port=3000",
+    "build": "echo 'No build step required for static site'"
+  },
+  "keywords": [
+    "discord",
+    "bot",
+    "brainrots",
+    "economía",
+    "rpg"
+  ],
+  "author": "Tu Nombre",
+  "license": "MIT",
+  "devDependencies": {
+    "live-server": "^1.2.2"
+  }
+}
